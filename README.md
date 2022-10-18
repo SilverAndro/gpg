@@ -9,6 +9,7 @@ Test signed messages:
 <details>
   <summary>View</summary>
   
+```
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
@@ -20,12 +21,14 @@ N1LsAQCC0jaEAq6L8OIbv5JTUt/Wqkg901azT4IovzEiNP0ryAEAvKxFBLQ/V96b
 oqWEcx+7JOnclL0J11bcjbFnUq42Uwg=
 =t1KR
 -----END PGP SIGNATURE-----
+```
 </details>
 
 `SilverAndro_0x3101B414_public.asc`
 <details>
   <summary>View</summary>
   
+```
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
@@ -37,4 +40,5 @@ FKY8AQCfbxZd/jiA4TPjZwYWByBC7PeyowAWY/mGsDz6v46hZwD9H2PzqCZdbkpY
 4AXywAfDGnC7i7FeyqmTnyKI81lBUwM=
 =pXYh
 -----END PGP SIGNATURE-----
+```
 </details>

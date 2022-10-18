@@ -1,6 +1,6 @@
 This is a respository of my various public gpg keys
 
-- `SilverGithub_0xF26A5537_public.asc`: Key I use for signing github commits
+- `SilverGithub_0xF26A5537_public.asc`: Key I use for signing github commits after 2022-17-10
 - `SilverAndro_0x3101B414_public.asc`: General pupose key, not for github
 
 Test signed messages:
